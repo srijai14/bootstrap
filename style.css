@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #3d626c;
+}
+.navbar-nav .nav-link.active, .nav-link, .navbar-brand {
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'EB Garamond', serif;
+    margin-left: 5%;
+}
+.navbar-brand:hover{
+    color: #99a3ad;
+}
+.navbar-nav .nav-link.active:hover, .nav-link:hover{
+    text-decoration: underline;
+    color: white;
+}
