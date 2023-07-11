@@ -1,1 +1,4 @@
 https://mobirise.com/extensions/personam4/craftshop/
+
+background-color: rgb(61, 98, 108);
+    opacity: 0.6;
